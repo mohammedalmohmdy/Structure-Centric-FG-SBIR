@@ -75,17 +75,17 @@ Structure-Centric-FG-SBIR/
 -----------------------------------------------------------
 📂 Datasets
 -----------------------------------------------------------
-**ShoeV2 / ChairV2**  
-  [Sketchy Official Website](https://sketchx.eecs.qmul.ac.uk/downloads/)  
-  [Google Drive Download](https://drive.google.com/file/d/1frltfiEd9ymnODZFHYrbg741kfys1rq1/view)
+ShoeV2 / ChairV2
+Sketchy Official Website
+Google Drive Download
 
-- **Sketchy**  
-  [Sketchy Official Website](https://sketchx.eecs.qmul.ac.uk/downloads/)  
-  [Google Drive Download](https://drive.google.com/file/d/11GAr0jrtowTnR3otyQbNMSLPeHyvecdP/view)
+Sketchy
+Sketchy Official Website
+Google Drive Download
 
-- **TU-Berlin**  
-  [TU-Berlin Official Website](https://www.tu-berlin.de/)  
-  [Google Drive Download](https://drive.google.com/file/d/12VV40j5Nf4hNBfFy0AhYEtql1OjwXAUC/view)
+TU-Berlin
+TU-Berlin Official Website
+Google Drive Download
 
 -----------------------------------------------------------
 Citation: If you use this code, please cite:
