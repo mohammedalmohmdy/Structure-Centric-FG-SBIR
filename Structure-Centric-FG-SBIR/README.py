@@ -8,8 +8,7 @@ Structure-Centric Fine-Grained Sketch-Based Image Retrieval
 Official PyTorch implementation of the paper:
 "Structure-Centric Fine-Grained Sketch-Based Image Retrieval"
 
-This repository is released to ensure full reproducibility and transparency,
-following CVPR/ECCV code release standards.
+
 
 -----------------------------------------------------------
 1. Overview
@@ -74,15 +73,46 @@ Structure-Centric-FG-SBIR/
 - Clear mapping between equations and code
 
 -----------------------------------------------------------
-5. Notes for Reviewers
+📂 Datasets
+-----------------------------------------------------------
+ShoeV2 / ChairV2
+Sketchy Official Website
+Google Drive Download
+
+Sketchy
+Sketchy Official Website
+Google Drive Download
+
+TU-Berlin
+TU-Berlin Official Website
+Google Drive Download
+
+-----------------------------------------------------------
+Citation: If you use this code, please cite:
 -----------------------------------------------------------
 
-This codebase is intentionally modular and verbose to:
-- Improve clarity
-- Facilitate inspection
-- Ensure faithful implementation of the proposed method
+-----------------------------------------------------------
+Citation: If you use this code, please cite:
+
+title = {Structure-Centric Representation Learning for Fine-Grained Sketch-Based Image Retrieval},
+
+author = {Mohammed A. S. Al-Mohamadi and Prabhakar C. J.},
+
+journal = {.............}, year = {2026} }
+
+Contact: almohmdy30@gmail.com GitHub: https://github.com/mohammedalmohmdy
 
 -----------------------------------------------------------
-End of File
------------------------------------------------------------
+
 """
+
+
+Citation: If you use this code, please cite:
+
+title = {FREQDIFFFORMER: FREQUENCY-GUIDED TRANSFORMER–DIFFUSION FRAMEWORK FOR FINE-GRAINED SKETCH-BASED IMAGE RETRIEVAL},
+
+author = {Mohammed A. S. Al-Mohamadi and Prabhakar C. J.},
+
+journal = {Multimedia Tools and Applications}, year = {2025} }
+
+Contact: almohmdy30@gmail.com GitHub: https://github.com/mohammedalmohmdy
