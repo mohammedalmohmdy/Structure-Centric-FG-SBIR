@@ -1,0 +1,7 @@
+
+torch>=1.13
+torchvision
+numpy
+scipy
+pyyaml
+tqdm

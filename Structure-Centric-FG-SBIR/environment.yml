@@ -1,0 +1,8 @@
+
+name: fg-sbir
+dependencies:
+  - python=3.9
+  - pytorch
+  - torchvision
+  - numpy
+  - scikit-learn

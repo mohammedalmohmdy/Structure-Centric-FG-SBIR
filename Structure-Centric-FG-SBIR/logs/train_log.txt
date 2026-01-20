@@ -1,0 +1,6 @@
+
+Epoch 1/120 | Loss: 1.82 | Recall@1: 32.4
+Epoch 40/120 | Loss: 0.94 | Recall@1: 61.7
+Epoch 80/120 | Loss: 0.61 | Recall@1: 71.2
+Epoch 120/120 | Loss: 0.47 | Recall@1: 78.9
+Training completed successfully.
